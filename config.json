@@ -1,0 +1,15 @@
+{
+    "bot_token": "MTM3OTU4OTMzNTE5OTkxMTk5Ng.Gbbig1.a1rFmulHbF7vKr1PlegAwHMr2Rr4aiwztFKIl0",
+    "bot_status": "testing",
+    "capmonster_key": "",
+    "proxyless": true,
+    "field_name_invite": "",
+    "change_server_nick": true,
+    "server_nick": ".gg/skillz",
+    "guildID": 1379584947911917670,
+    "ownerID": [1314762968319131719],
+    "adminID": [],
+    "order_log_webhook": "https://discord.com/api/webhooks/1379585013636399248/0IM4OzxKXFlxiGtosIhnqZmwiyI0_-FDqXeLf_JuvTbMbh89J1h5KdgWUTAEiZPaWS6y",
+    "boost_log_webhook": "https://discord.com/api/webhooks/1379585112869703711/fI-Z6dusIrWacK8h8dQjx0L-kDDxsutnkFkV2AgTBz4556uLmG_l4YRTn1Wv7Szp3fhp",
+    "boost_failed_log_webhook": "https://discord.com/api/webhooks/1379585444198613072/XHL4OLBomIyEPia-r8-tVEoMW2Z2hoZE4nHx3yKk2wlJEkkIAAverfIPhKe_5KeY5D2a"
+}
